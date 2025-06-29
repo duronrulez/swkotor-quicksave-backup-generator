@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kotor-quicksave-backups", "kotor-quicksave-backups\kotor-quicksave-backups.csproj", "{7C1346C5-B498-456F-99A4-C57B0F80421C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C1346C5-B498-456F-99A4-C57B0F80421C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1346C5-B498-456F-99A4-C57B0F80421C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1346C5-B498-456F-99A4-C57B0F80421C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1346C5-B498-456F-99A4-C57B0F80421C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B35DB3DB-AEE8-4093-8094-140869D9D4B5}
+	EndGlobalSection
+EndGlobal
